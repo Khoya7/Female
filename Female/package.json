@@ -1,0 +1,9 @@
+{
+  "name": "anorthernfemale",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "npx serve . -l 3000"
+  }
+}
